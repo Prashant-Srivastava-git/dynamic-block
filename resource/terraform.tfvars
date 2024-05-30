@@ -1,6 +1,7 @@
 rg = {
     rg1 =  {
         name = "pkmkrg"
-        location = "india"
+        location = "east us"
+    
     }
 }
